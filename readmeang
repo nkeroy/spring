@@ -1,0 +1,339 @@
+Question:
+
+Which of the following is correct about TypeScript?
+
+Options
+
+
+Angular 2 is based on TypeScript. 
+
+This is a superset of JavaScript. 
+
+TypeScript is maintained by Microsoft.
+
+All of the above. ^
+
+
+Question:
+
+In Angular 2 . . . . . . . . directive allows us to iterate through a collection.
+
+Options
+
+
+NgRepeat
+
+Ngwhile
+
+NgIf
+
+NgFor ^
+
+
+
+
+Question:
+
+Which of the following filter is used to convert an input string to currency format.
+
+Options
+
+
+currency ^
+
+amount
+
+Both of the above
+
+None of the above
+
+Question:
+
+which of the following is true ?
+
+Options
+
+
+Angular 2 Modules are used to create components which can be shared across the entire application.
+
+Angular 2 Metadata is used to create components which can be shared across the entire application.
+
+Angular 2 Services are used to create components which can be shared across the entire application. ^
+
+
+
+Question:
+
+On the opposite side of event bindings (()) lie Angular�s square-bracket syntax ([]) which signify a . . . . . .
+
+Options
+
+
+property binding ^
+
+class binding
+
+style binding
+
+both 1&2
+
+
+
+
+
+Question:
+
+A component is a class decorated with some metadata and . . . . . . are functions that can modify a class.
+
+Options
+
+
+Selectors 
+
+Decorators ^
+
+Mentors
+
+Bindings
+
+
+
+
+
+
+
+
+Question:
+
+. . . . . . . . . . . is a life cycle hook called by Angular2 to indicate that Angular is done creating the component.
+
+Options
+
+
+ngOnChanges
+
+ngAfterViewInit 
+
+ngAfterContentInit
+
+ngOnInit ^
+
+
+
+
+Question:
+There can be more than one <router-outlet> element in angular application
+
+Options
+
+
+TRUE ^
+
+FALSE
+
+Question:
+What kinds of tests does angular support?
+
+Options
+
+
+Only unit tests
+
+Only end to end tests
+
+Unit tests as well as end to end tests ^
+
+None of the above
+
+
+
+Question:
+
+The format for defining interpolation in a template is:
+
+Options
+
+
+{{ propertyName }} ^
+
+(propertyName)
+
+propertyName;
+
+{propertyName}
+
+
+
+Question:
+
+If you chain multiple pipes together, they are executed . . . . . 
+
+Options
+
+
+LIFO order
+
+in parallel 
+
+in the order in which you specify them ^
+
+none of above
+
+
+Question:
+Generate components, routes, services and pipes with a simple command.
+
+Options
+
+
+ng new
+
+ng serve
+
+ng generate ^
+
+ng create
+
+
+Question:
+
+Where we need to specify an entry component?
+
+Options
+
+
+Under Angular Module
+
+routing definition
+
+either A or B ^
+
+None of the above
+
+
+Question:
+What does a pipe decorator do?
+
+Options
+
+
+Implement the pipe interface
+
+Implements the pipe metadata
+
+implements the PipeTransform ^
+
+None of the Above
+
+
+
+Question:
+
+Components are created using which tag or syntax
+
+Options
+
+
+@Component^
+
+@angular
+
+@Controller
+
+@module
+
+Question:
+Find out true statements:
+a) Service is to provide an easy way to share the data between the components and with the help of dependency injection (DI) you can control how the service instances are shared. ^
+b) Services use to fetch the data from the RESTful API. ^
+c) Services is a way to create objects that depend upon other objects.
+
+
+Question:
+Custom pipe can modify actual value of variable apart from different presention in HTML.
+
+Options
+
+
+TRUE ^
+
+FALSE 
+
+
+Question:
+
+what decorator is used to facilitate the usage of a service
+
+Options
+
+
+@Injectable ^
+
+@OnListener
+
+@TargetListener
+
+@Listener
+
+
+Question:
+
+To use HttpClient component you need to import below module
+
+Options
+
+
+None of the above ^
+
+HttpModule 
+
+Http
+
+HttpClientModule 
+
+
+
+Question:
+
+In Angular, you can pass data from parent component to child component using
+
+Options
+
+
+@Input() ^
+
+@Output()
+
+input
+
+output
+
+
+
+Question:
+
+In Angular 5, Typed, synchronous response body access, including support for JSON body types.
+
+Options
+
+
+TRUE ^
+
+FALSE
+
+
+
+Question:
+
+which command runs all end-to-end tests defined in your application
+
+Options
+
+
+ng lint
+
+ng test
+
+ng e2e ^
+
+ng testlint
